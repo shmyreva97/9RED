@@ -1,0 +1,11 @@
+{
+    "name": "playwright-check",
+    "version": "1.0.0",
+    "description": "Простая проверка playwright.dev на разных браузерах",
+    "scripts": {
+        "start": "node check-title.js"
+    },
+    "dependencies": {
+        "playwright": "^1.40.0"
+    }
+}
